@@ -17,7 +17,6 @@
 <br>
 <hr>
 
-
 📌 Pinned Repositories <br><br>
 
 <a href="https://github.com/AmeyRJoshi/Budget-App">

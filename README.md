@@ -10,7 +10,7 @@
 <p> Want to Know more about me?</p><a href = "https://arj-portfolio.netlify.app">Checkout my portfolio.</a>
 <br>
 <hr>
- 📩 Latest Blog Posts
+ # 📩 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <br>

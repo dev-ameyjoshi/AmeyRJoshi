@@ -12,8 +12,7 @@
 <hr>
 # 📩 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
-- [Frequently used GIT Commands.]
-(https://dev.to/dev-ameyjoshi/frequently-used-git-commands-5c83)
+- [Frequently used GIT Commands.](https://dev.to/skullninja72/frequently-used-git-commands-5c83)
 <!-- BLOG-POST-LIST:END -->
 
 <br>

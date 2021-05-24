@@ -13,7 +13,6 @@
 ### 📩 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Frequently used GIT Commands.](https://dev.to/skullninja72/frequently-used-git-commands-5c83)
-
 <!-- BLOG-POST-LIST:END -->
 
 <br>

@@ -8,10 +8,10 @@ on:
 jobs:
  update-readme-with-blog:
    name: Update this repo's README with latest blog posts
-   runs-on: ubuntu-latest
+   runs-on: windows-latest
    steps:
      - uses: actions/checkout@v2
      - uses: gautamkrishnar/blog-post-workflow@master
        with:
          # Replace this URL with your rss feed URL/s
-         feed_list: "https://dev.to/feed/skullninja72"
+         feed_list: "https://dev.to/feed/skullninja72/rss.xml"

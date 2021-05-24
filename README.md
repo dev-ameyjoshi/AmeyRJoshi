@@ -10,9 +10,10 @@
 <p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a>
 <br>
 <hr>
-# 📩 Latest Blog Posts  
+### 📩 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 - [Frequently used GIT Commands.](https://dev.to/skullninja72/frequently-used-git-commands-5c83)
+
 <!-- BLOG-POST-LIST:END -->
 
 <br>

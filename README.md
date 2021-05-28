@@ -33,9 +33,11 @@
 </p>
 <br>
 <hr>
- 📩 Latest Blog Posts  
-- [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83)
+### 📩 Latest Blog Posts  
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
+- [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83)
 
 
 

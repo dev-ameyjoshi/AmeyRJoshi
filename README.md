@@ -14,7 +14,7 @@
 <!-- BLOG-POST-LIST:START -->
 - [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83)
 <!-- BLOG-POST-LIST:END -->
-- [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83)
+
 
 <br>
 <hr>

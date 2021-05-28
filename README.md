@@ -32,8 +32,8 @@
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 <br>
-
-<!-- ### 📩 Latest Blog Posts   -->
+<hr>
+### 📩 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 <!-- - [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83) -->
 <!-- BLOG-POST-LIST:END -->

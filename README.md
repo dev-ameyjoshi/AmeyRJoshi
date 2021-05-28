@@ -50,7 +50,7 @@
 📌 Pinned Repositories <br><br>
 
 <a href="https://github.com/dev-ameyjoshi/Budget-App">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ameyjoshi&repo=Budget-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=2563EB" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ameyjoshi&repo=Budget-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=34D399" />
 </a>
 <br>
 <br>

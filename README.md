@@ -13,7 +13,7 @@
 ### 📩 Latest Blog Posts  
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
-- [Frequently used GIT Commands.](https://dev.to/skullninja72/frequently-used-git-commands-5c83)
+- [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83)
 
 <br>
 <hr>

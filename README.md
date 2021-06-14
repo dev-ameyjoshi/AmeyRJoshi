@@ -33,7 +33,7 @@
 </p>
 <br>
 <hr>
-<h3 align="left">🛠️ Social </h3>
+<h3 align="left">🌀 Social </h3>
 <a href = "https://www.hackerrank.com/dev_Amey_Joshi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href = "https://replit.com/@AmeyJoshi1"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white" /></a>
 <a href = "https://app.netlify.com/teams/ameyjoshi2001rj/overview"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>

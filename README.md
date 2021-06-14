@@ -34,9 +34,7 @@
 <br>
 <hr>
 <h3 align="left">🛠️ Social </h3>
-<p align="left">
-<img src="{https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white}" />
-</p>
+[![image]({https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white})](https://www.hackerrank.com/dev_Amey_Joshi/)
 <br>
 <hr>
 📩 Latest Blog Posts 

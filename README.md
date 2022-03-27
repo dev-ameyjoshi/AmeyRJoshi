@@ -6,7 +6,7 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amey-joshi-a72bb6136/)
 <br>
 <p> Hello World! 👋</p>
-<p> I am Amey Joshi, an engineering student currently  on the path to become a Full-Stack web developer with NEOGCAMP.</p>
+<p> I am Amey Joshi, an engineering student currently  on the path to become a Full-Stack web developer.</p>
 <p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a>
 <br>
 <hr>

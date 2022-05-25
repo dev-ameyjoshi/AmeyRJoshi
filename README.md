@@ -42,7 +42,7 @@
 
 <hr>
 <br>
-🏆GitHub Trophies
+#🏆GitHub Trophies
 <br>
 [![](https://github-profile-trophy.vercel.app/?username=dev-ameyjoshi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 <br>

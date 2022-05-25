@@ -1,5 +1,6 @@
-# Profile
-[![AMEY JOSHI GitHub Banner](./images/AmeyCover.jpg)](https://dev.to/skullninja72)
+# About Me 🚀
+
+<p align="center"><img alt = "animated" src="https://github.com/dev-ameyjoshi/dev-ameyjoshi/blob/main/coding.gif" width="550" height="350"/></p>
 
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAmeyRJoshi
 )](https://twitter.com/AmeyRJoshi)

@@ -4,6 +4,7 @@
 [![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAmeyRJoshi
 )](https://twitter.com/AmeyRJoshi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amey-joshi-a72bb6136/)
+[![](https://visitcount.itsvg.in/api?id=dev-ameyjoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 <p> Hello World! 👋</p>
 <p> I am Amey Joshi, an engineering student currently  on the path to become a Full-Stack web developer.</p>
@@ -38,6 +39,13 @@
  <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> 
 </p>
 <br>
+
+<hr>
+<br>
+## 🏆GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=dev-ameyjoshi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+<br>
+
 <hr>
 
 📩 Latest Blog Posts 
@@ -78,9 +86,10 @@
 <br>
 <br>
 
-<a href="https://github.com/dev-ameyjoshi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api?username=dev-ameyjoshi&show_icons=true&theme=dracula&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=4AB097&bg_color=1A2B34" alt="Amey Joshi GitHub Stats" />
-</a>
+![](https://github-readme-stats.vercel.app/api?username=dev-ameyjoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-ameyjoshi&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ameyjoshi&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <br>
 <hr>
  

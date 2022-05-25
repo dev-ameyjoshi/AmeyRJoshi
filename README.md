@@ -40,7 +40,7 @@
 </p>
 <br>
 
-<hr>
+
 
 
 <hr>
@@ -57,7 +57,7 @@
 
 <hr>
 
-📌 Pinned Repositories <br><br>
+📌 Pinned Repositories <br>
 
 <a href="https://github.com/dev-ameyjoshi/Budget-App">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=dracula&repo=Budget-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
@@ -77,7 +77,7 @@
 
 📈 Github Stats
 
-<br>
+
 <br>
 
 ![](https://github-readme-stats.vercel.app/api?username=dev-ameyjoshi&theme=dracula&hide_border=false&include_all_commits=true&count_private=false)

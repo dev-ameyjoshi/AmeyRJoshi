@@ -43,6 +43,7 @@
 <hr>
 <br>
 ## 🏆GitHub Trophies
+<br>
 ![](https://github-profile-trophy.vercel.app/?username=dev-ameyjoshi&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 <br>
 
@@ -80,9 +81,6 @@
 
 📈 Github Stats
 
-<a href="https://github.com/dev-ameyjoshi">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ameyjoshi&theme=dracula&hide=html,css&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-</a>
 <br>
 <br>
 

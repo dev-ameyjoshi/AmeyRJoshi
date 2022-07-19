@@ -2,9 +2,7 @@
 
 <p align="center"><img alt = "animated" src="https://github.com/dev-ameyjoshi/dev-ameyjoshi/blob/main/coding.gif" width="550" height="350"/></p>
 
-[![Twitter Badge](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2FAmeyRJoshi
-)](https://twitter.com/AmeyRJoshi)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/amey-joshi-a72bb6136/)
+
 [![](https://visitcount.itsvg.in/api?id=dev-ameyjoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 <p> Hello World! 👋</p>
@@ -13,6 +11,9 @@
 <br>
 <hr>
 <h3 align="left">🌀 Social </h3>
+<a href = "https://www.linkedin.com/in/amey-joshi-a72bb6136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href = "https://twitter.com/AmeyRJoshi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href = "ameyjoshi2001rj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href = "https://www.hackerrank.com/dev_Amey_Joshi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
 <a href = "https://replit.com/@AmeyJoshi1"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white" /></a>
 <a href = "https://app.netlify.com/teams/ameyjoshi2001rj/overview"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>

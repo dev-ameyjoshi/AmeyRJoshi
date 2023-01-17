@@ -66,18 +66,18 @@
 📌 Pinned Repositories <br>
 
 <a href="https://github.com/dev-ameyjoshi/Budget-App">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=react&repo=Budget-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=react&repo=Budget-App&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
 
 <a href="https://github.com/dev-ameyjoshi/Registration-Form-website">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=react&repo=Registration-Form-website&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=react&repo=Registration-Form-website&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <br>
 <br>
 <a href="https://github.com/dev-ameyjoshi/cash-register-program">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=react&repo=cash-register-program&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=dev-ameyjoshi&show_icons=true&theme=react&repo=cash-register-program&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 <hr>
 
@@ -86,11 +86,11 @@
 
 <br>
 
-![](https://github-readme-stats.vercel.app/api?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=false)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=false)
 <br>
 <br>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=dev-ameyjoshi&theme=react&hide_border=false)<br><br>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 <br>
 
 

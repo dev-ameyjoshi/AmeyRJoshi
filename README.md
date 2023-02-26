@@ -6,7 +6,7 @@
 [![](https://visitcount.itsvg.in/api?id=dev-ameyjoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
 <p> Hello World! 👋</p>
-<p> I am Amey Joshi, an engineering student currently  on the path to become a Full-Stack web developer.</p>
+<p> I am Amey Joshi, an engineering student currently a Full-Stack web developer.</p>
 <p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a>
 <br>
 <hr>

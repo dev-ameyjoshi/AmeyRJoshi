@@ -1,22 +1,21 @@
 # About Me 🚀
-
 <p align="center"><img alt = "animated" src="https://github.com/dev-ameyjoshi/dev-ameyjoshi/blob/main/coding.gif" width="550" height="350"/></p>
-
-
-[![](https://visitcount.itsvg.in/api?id=dev-ameyjoshi&icon=0&color=0)](https://visitcount.itsvg.in)
 <br>
+
 <p> Hello World! 👋</p>
 <p> I am Amey Joshi, an engineering student currently a Full-Stack web developer.</p>
-<p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a>
+<p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a><br/>
+
+<br>
+<p align="left"> <a href="https://twitter.com/dev_ameyjoshi" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ameyjoshi?logo=twitter&style=for-the-badge" alt="dev_ameyjoshi" /></a> </p>
 <br>
 <hr>
 <h3 align="left">🌀 Social </h3>
-<a href = "https://www.linkedin.com/in/amey-joshi-a72bb6136/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href = "https://twitter.com/AmeyRJoshi"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-<a href = "mailto:ameyjoshi2001rj@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href = "https://www.hackerrank.com/dev_Amey_Joshi"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a>
-<a href = "https://replit.com/@AmeyJoshi1"><img src="https://img.shields.io/badge/Replit-667881?style=for-the-badge&logo=repl-dot-it&logoColor=white" /></a>
-<a href = "https://app.netlify.com/teams/ameyjoshi2001rj/overview"><img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" /></a>
+<a href="https://dev.to/ameyjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ameyjoshi" height="30" width="40" /></a>
+<a href="https://twitter.com/dev_ameyjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_ameyjoshi" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/amey-joshi-a72bb6136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amey-joshi" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/amey_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amey_joshi" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/skullninja72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skullninja72" height="30" width="40" /></a>
 <br>
 <hr>
 <h3 align="left">🛠️Languages and Tools:</h3>
@@ -40,7 +39,8 @@
 <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
  <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://github.com/standard/standard/blob/master/docs/logos/express.png" width="90" height="30"/> </a>
- 
+ <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
 
  
 </p>
@@ -86,12 +86,10 @@
 
 <br>
 
-![](https://github-readme-stats-sigma-five.vercel.app/api?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=false)
-<br>
-<br>
-![](https://github-readme-streak-stats.herokuapp.com/?user=dev-ameyjoshi&theme=react&hide_border=false)<br><br>
-![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-<br>
+![](https://github-readme-stats.vercel.app/api?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=dev-ameyjoshi&theme=react&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-ameyjoshi&theme=react&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 
 

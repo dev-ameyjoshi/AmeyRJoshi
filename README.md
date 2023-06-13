@@ -3,7 +3,7 @@
 <br>
 
 <p> Hello World! 👋</p>
-<p> I am Amey Joshi, an engineering student currently a Full-Stack web developer.</p>
+<p> I am Amey Joshi, an engineering student currently a Full-Stack web developer.I am passionate about coding and problem solving and I am able to work with peers proactively regarding modification and development as needed. I want to work in a development-driven environment where people are more curious about the latest technologies around.</p>
 <p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a><br/>
 
 <br>

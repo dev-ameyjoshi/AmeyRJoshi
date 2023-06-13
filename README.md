@@ -1,9 +1,11 @@
 # About Me 🚀
-<p align="center"><img alt = "animated" src="https://github.com/dev-ameyjoshi/dev-ameyjoshi/blob/main/coding.gif" width="550" height="350"/></p>
+<!-- <p align="center"><img alt = "animated" src="https://github.com/dev-ameyjoshi/dev-ameyjoshi/blob/main/coding.gif" width="550" height="350"/></p> -->
+<p align="center"><img alt = "animated" src="https://media.licdn.com/dms/image/D4D16AQFtsfjptHE73w/profile-displaybackgroundimage-shrink_350_1400/0/1680589235630?e=1692230400&v=beta&t=6MvvRDSd1TFmJ_C1u7KC6It_hjoxjjQRNFbrlhZXmrI" width="1500" height="250"/></p>
+
 <br>
 
 <p> Hello World! 👋</p>
-<p> I am Amey Joshi, an engineering student currently a Full-Stack web developer.I am passionate about coding and problem solving and I am able to work with peers proactively regarding modification and development as needed. I want to work in a development-driven environment where people are more curious about the latest technologies around.</p>
+<p>I am an engineering student who is currently working as a Full-Stack web developer. I have a strong passion for coding and problem solving, and I actively collaborate with my peers to make necessary modifications and advancements. I am seeking a development-driven environment where individuals are highly curious about the latest technologies.</p>
 <p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a><br/>
 
 <br>

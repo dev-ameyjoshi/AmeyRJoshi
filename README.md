@@ -7,12 +7,12 @@
 <p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a><br/>
 
 <br>
-<p align="left"> <a href="https://twitter.com/dev_ameyjoshi" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ameyjoshi?logo=twitter&style=for-the-badge" alt="dev_ameyjoshi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/AmeyRJoshi" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ameyjoshi?logo=twitter&style=for-the-badge" alt="dev_ameyjoshi" /></a> </p>
 <br>
 <hr>
 <h3 align="left">🌀 Social </h3>
 <a href="https://dev.to/ameyjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="ameyjoshi" height="30" width="40" /></a>
-<a href="https://twitter.com/dev_ameyjoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_ameyjoshi" height="30" width="40" /></a>
+<a href="https://twitter.com/AmeyRJoshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_ameyjoshi" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/amey-joshi-a72bb6136/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amey-joshi" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/amey_joshi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="amey_joshi" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/skullninja72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="skullninja72" height="30" width="40" /></a>

@@ -6,7 +6,7 @@
 
 <p> Hello World! 👋</p>
 <p>I am an engineering student who is currently working as a Full-Stack web developer. I have a strong passion for coding and problem solving, and I actively collaborate with my peers to make necessary modifications and advancements. I am seeking a development-driven environment where individuals are highly curious about the latest technologies.</p>
-<p> Want to Know more about me?</p><a href = "https://ameyjoshi2u.netlify.app/">Checkout my portfolio.</a><br/>
+<p> Want to Know more about me?</p><a href = "https://dev-ameyjoshi.github.io/My-react-portfolio-master/">Checkout my portfolio.</a><br/>
 
 <br>
 <p align="left"> <a href="https://twitter.com/AmeyRJoshi" target="blank"><img src="https://img.shields.io/twitter/follow/dev_ameyjoshi?logo=twitter&style=for-the-badge" alt="dev_ameyjoshi" /></a> </p>

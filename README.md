@@ -1,6 +1,6 @@
 # About Me 🚀
 <!-- <p align="center"><img alt = "animated" src="https://github.com/dev-ameyjoshi/dev-ameyjoshi/blob/main/coding.gif" width="550" height="350"/></p> -->
-<p align="center"><img alt = "animated" src="https://media.licdn.com/dms/image/D4D16AQERuVfSaQrqhQ/profile-displaybackgroundimage-shrink_350_1400/0/1692284319203?e=1697673600&v=beta&t=lONhZubMW5E-9V-25WThrsb4GTxTEMvIBfKMyqilBFA" width="1500" height="250"/></p>
+<p align="center"><img alt = "animated" src="https://i.pinimg.com/564x/d8/9a/1d/d89a1d9d3190e26acfbda01f483e4399.jpg" width="500" height="350"/></p>
 
 <br>
 

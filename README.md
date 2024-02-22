@@ -5,7 +5,7 @@
 <br>
 
 <p> Hello World! 👋</p>
-<p>I am an engineering student who is currently working as a Full-Stack web developer. I have a strong passion for coding and problem solving, and I actively collaborate with my peers to make necessary modifications and advancements. I am seeking a development-driven environment where individuals are highly curious about the latest technologies.</p>
+<p>Greetings, I'm a final-year Computer Engineering student at Vishwakarma Institute of Technology, Pune. With a keen interest in coding and problem-solving, I am driven by a fervent passion for exploring the latest technologies. My academic journey has equipped me with a robust skill set, spanning Relational Database Management Systems, Software Engineering, Data Structures, Object-Oriented Programming (OOPS), among others. As a Trainee Software Developer at Newru Technologies, I've honed my abilities in React.js, Node.js, and AWS while contributing to innovative projects . Known for my sincerity and proactive approach, I thrive in dynamic environments where collaboration and continual learning fuel ground-breaking solutions.</p>
 <p> Want to Know more about me?</p><a href = "https://dev-ameyjoshi.github.io/My-react-portfolio-master/">Checkout my portfolio.</a><br/>
 
 <br>

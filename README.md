@@ -57,6 +57,11 @@
  
 <!-- BLOG-POST-LIST:START -->
 - [Frequently used GIT Commands.](https://dev.to/ameyjoshi/frequently-used-git-commands-5c83)
+- [VARIOUS INTERPRETERS.](https://medium.com/@annie_/various-interpreters-27ba8a236e00)
+- [INTERNET ROUTING PROTOCOLS.](https://medium.com/@annie_/internet-routing-protocols-5ceec16c7d99)
+- [APPROXIMATION ALGORITHMS.](https://medium.com/@annie_/approximation-algorithms-2c1acdeb7447)
+- [ADVANTAGES & DISADVANTAGES OF UML EVERY DEVELOPER SHOULD KNOW.](https://medium.com/@annie_/advantages-disadvantages-of-uml-every-developer-should-know-4072fd825603)
+- [Active Databases & Triggers.](https://medium.com/@annie_/active-databases-triggers-9851dc9a114f)
 <!-- BLOG-POST-LIST:END -->
 
 

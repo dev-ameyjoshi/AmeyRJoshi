@@ -4,7 +4,7 @@
 
 <br>
 
-<p> Hello World! 👋</p>
+
 <p>Greetings! I recently graduated with a degree in Computer Engineering from Vishwakarma Institute of Technology, Pune. My academic journey has equipped me with a robust skill set in Relational Database Management Systems, Software Engineering, Data Structures, and Object-Oriented Programming (OOPS), among others. 
  
 During my time as a Trainee Software Developer at Newru Technologies, I honed my skills in React.js, Node.js, and AWS while contributing to innovative projects. I am currently working as a full-time Programmer Analyst Trainee at Cognizant, where I continue to apply my passion for coding and problem-solving. Known for my sincerity and proactive approach, I thrive in dynamic environments where collaboration and continuous learning drive groundbreaking solutions.</p>
